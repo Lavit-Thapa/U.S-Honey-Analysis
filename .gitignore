@@ -1,0 +1,26 @@
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files created by some text editors
+*~
+\#*\#
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+#Virtual environment
+venv/
+env/
+myenv/
+*/venv/
+*/env/
+*/myenv/
+
+# Data Files
+US_honey_dataset.csv
